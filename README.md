@@ -6,10 +6,10 @@
 
 
 ## FORMULA:
-BMI = W/H2
-BMI -->Body Mass Index
-W -->Weight
-H -->Height
+BMI = W/H<sup>2</sup>
+<br>BMI --> Body Mass Index
+<br>W --> Weight
+<br>H --> Height
 
 ## DESIGN STEPS:
 
@@ -134,7 +134,8 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-10-08 202913.png>)
+
+![alt text](<Screenshot 2025-10-23 101318.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2025-10-08 202728.png>)
